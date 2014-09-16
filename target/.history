@@ -1,0 +1,3 @@
+def(n:Double) Double = if(n<0) -n else n
+def(n:Double) Double = {if(n<0) -n else n
+if(n<0) -n else n
